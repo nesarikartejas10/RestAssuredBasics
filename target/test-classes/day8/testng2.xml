@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="CreateUserTest">
+    <classes>
+      <class name="day8.APIChaining_CreateUser"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test thread-count="5" name="GetUserTest">
+    <classes>
+      <class name="day8.APIChaining_GetUser"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test thread-count="5" name="UpdateUserTest">
+    <classes>
+      <class name="day8.APIChaining_UpdateUser"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test thread-count="5" name="DeleteUserTest">
+    <classes>
+      <class name="day8.APIChaining_DeleteUser"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

@@ -1,0 +1,9 @@
+	 {
+    "name": "Tejas",
+    "age": "28",
+    "grade": "A",
+    "subjects": [
+        "RestAssured",
+        "Selenium"
+    ]
+}

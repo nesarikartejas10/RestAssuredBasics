@@ -1,0 +1,10 @@
+{
+    "name": "Prachi",
+    "age": "29",
+    "grade": "B+",
+    "subjects": [
+        "Python",
+        "Cypress",
+        "Typescript"
+    ]
+}
